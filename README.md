@@ -1,4 +1,4 @@
-自学c++ing……
+无念无想，泡影段灭
 
 <!---
 naughtyjinglecat/naughtyjinglecat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
